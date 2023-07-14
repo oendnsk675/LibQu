@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423428534703",
+    "project_id": "libqu-1dcb1",
+    "storage_bucket": "libqu-1dcb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423428534703:android:08735d88822d8d58bd3f5a",
+        "android_client_info": {
+          "package_name": "com.example.libqu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423428534703-4ggfm0r85jc398k580s624qv5n06prl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9DvgCdT9MVBmqdNMhtoHN7SvcAL_60Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423428534703-4ggfm0r85jc398k580s624qv5n06prl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
